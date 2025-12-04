@@ -1,10 +1,3 @@
-# 🏥 Healthcare Wellness & Preventive Care Portal  
-### HCLTech Hackathon – 15 Nov  
-A full-stack solution designed to promote **wellness**, **preventive care**, and **secure provider–patient interaction**.  
-
-This README contains **complete design documentation**, including architecture, user flows, technical stack, DevOps plan, mock design explanation, and MVP scope.
-
----
 
 # 📌 1. Business Use Case
 
@@ -28,13 +21,13 @@ Develop a healthcare portal that:
 
 ---
 
-# 🎯 2. MVP Scope (From 5–7 hour challenge)
+# 🎯 2. MVP Scope 
 
 The MVP must contain:
 
 ### **Core Deliverables**
 - Functional authentication (patients & providers)
-- Patient dashboard → steps, sleep, reminders, health tip
+- Patient dashboard → steps, sleep,calories, reminders,active time, health tip
 - Provider dashboard → patient list + compliance overview
 - Profile management for patients
 - Public health information page
@@ -315,26 +308,3 @@ root/
 │── README.md
 │── .env.example
 ```
-
----
-
-# 🚀 13. Future Enhancements
-
-- Wearable integration (Fitbit, Apple Health)  
-- AI-based recommendation engine  
-- Push notifications  
-- Chatbot for preventive care  
-- Gamification for engagement  
-- Water intake & calorie tracking  
-
----
-
-# 🏁 14. Conclusion
-
-This project provides a **scalable, secure, and user-friendly** approach to preventive healthcare.  
-Designed specifically for the **HCLTech Hackathon**, it balances:
-- UX simplicity  
-- Technical depth  
-- Real-world healthcare needs  
-
----
